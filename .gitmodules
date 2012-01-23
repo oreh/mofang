@@ -1,0 +1,3 @@
+[submodule "box-python-sdk"]
+	path = box-python-sdk
+	url = https://github.com/box/box-python-sdk.git
